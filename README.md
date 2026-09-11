@@ -4,6 +4,7 @@
 Web Worker 里，零第三方依赖、零构建、零下载，可直接托管在 GitHub Pages。
 
 > 中文说明见 [README_CN.md](README_CN.md)。
+> **在线试玩：<https://justa-cai.github.io/gomoku/>** · 源码：<https://github.com/justa-cai/gomoku>
 
 ## Highlights
 
